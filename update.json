@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.1",
+  "force_update": true,
+  "update_url_android": "https://play.google.com/store/apps/details?id=your.package.name",
+  "update_url_ios": "https://apps.apple.com/us/app/your-app-name/idYOURAPPID"
+}
