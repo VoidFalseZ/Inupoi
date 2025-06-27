@@ -1,0 +1,11 @@
+{
+  "title": "Application Update!",
+  "message_lines": [
+    "A new version of the app is available.",
+    "Key improvements:",
+    "- Performance enhancements",
+    "- Bug fixes",
+    "- New exciting features!"
+  ],
+  "button_text": "Update Now!"
+}
