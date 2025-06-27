@@ -1,11 +1,14 @@
 {
-  "title": "Application Update!",
+  "title": "New Version Available!",
   "message_lines": [
-    "A new version of the app is available.",
-    "Key improvements:",
-    "- Performance enhancements",
-    "- Bug fixes",
-    "- New exciting features!"
+    "A critical update is available for this application.",
+    "Please update to continue using the app.",
+    "",
+    "New features and bug fixes await!"
   ],
-  "button_text": "Update Now!"
+  "button_text": "Update Now",
+  "minimum_version": "1.0.1",
+  "force_update": true,
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp",
+  "ios_store_url": "https://apps.apple.com/app/your-app-id"
 }
